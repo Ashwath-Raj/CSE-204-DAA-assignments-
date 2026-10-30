@@ -1,0 +1,5 @@
+$ ./knapsack
+Enter Number of Items and Knapsack Capacity: Enter Weights of Items:
+Enter Values of Items:
+Maximum Value: 9
+Selected Items (1-based): 2 3
