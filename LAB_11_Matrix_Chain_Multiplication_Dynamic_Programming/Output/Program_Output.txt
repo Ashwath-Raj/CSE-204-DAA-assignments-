@@ -1,0 +1,2 @@
+Enter Number of Matrices: Enter 5 dimensions: Minimum Number of Scalar Multiplications: 1500
+Optimal Parenthesization: (A1(A2(A3A4)))
